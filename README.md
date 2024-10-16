@@ -25,8 +25,8 @@ Print each generated random number.
 End the program.
 
 ## PROGRAM:
-### DEVELOPED BY : ARAVINDAN D
-### REGISTER NO. : 212223240012
+### DEVELOPED BY : VESLIN ANISH A
+### REGISTER NO. : 212223240175
 ```
 #include <stdio.h>
 
